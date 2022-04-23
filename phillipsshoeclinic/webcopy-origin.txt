@@ -1,0 +1,672 @@
+Uri: http://cdn2.editmysite.com/css/old/fancybox.css?1599673045
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\css (1)\old\fancybox.css
+Content Type: text/css
+
+Uri: http://cdn2.editmysite.com/css/old/slideshow/slideshow.css?1646848979
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\css (1)\old\slideshow\slideshow.css
+Content Type: text/css
+
+Uri: http://cdn2.editmysite.com/css/sites.css?buildTime=1599673045
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\css (1)\sites-2.css
+Content Type: text/css
+
+Uri: http://cdn2.editmysite.com/css/sites.css?buildTime=1632169377
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\css (1)\sites-1.css
+Content Type: text/css
+
+Uri: http://cdn2.editmysite.com/css/sites.css?buildTime=1646848979
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\css (1)\sites.css
+Content Type: text/css
+
+Uri: http://cdn2.editmysite.com/css/social-icons.css?buildtime=1599673045
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\css (1)\social-icons.css
+Content Type: text/css
+
+Uri: http://cdn2.editmysite.com/fonts/DayPosterBlack/font.css?2
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\DayPosterBlack\font.css
+Content Type: text/css
+
+Uri: http://cdn2.editmysite.com/fonts/DayPosterBlack/regular.eot
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\DayPosterBlack\regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cdn2.editmysite.com/fonts/DayPosterBlack/regular.eot?
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\DayPosterBlack\regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cdn2.editmysite.com/fonts/DayPosterBlack/regular.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\DayPosterBlack\regular.ttf
+Content Type: application/octet-stream
+
+Uri: http://cdn2.editmysite.com/fonts/Proxima-Light/267447_4_0.eot?123597
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\Proxima-Light\267447_4_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cdn2.editmysite.com/fonts/Proxima-Light/267447_4_0.eot?321123597
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\Proxima-Light\267447_4_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cdn2.editmysite.com/fonts/Proxima-Light/267447_4_0.ttf?123597
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\Proxima-Light\267447_4_0.ttf
+Content Type: application/octet-stream
+
+Uri: http://cdn2.editmysite.com/fonts/Proxima-Light/267447_4_0.woff?123597
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\Proxima-Light\267447_4_0.woff
+Content Type: font/woff
+
+Uri: http://cdn2.editmysite.com/fonts/Proxima-Semibold/267447_5_0.eot?
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\Proxima-Semibold\267447_5_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cdn2.editmysite.com/fonts/Proxima-Semibold/267447_5_0.eot?123597
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\Proxima-Semibold\267447_5_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cdn2.editmysite.com/fonts/Proxima-Semibold/267447_5_0.ttf?123597
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\Proxima-Semibold\267447_5_0.ttf
+Content Type: application/octet-stream
+
+Uri: http://cdn2.editmysite.com/fonts/Proxima-Semibold/267447_5_0.woff?123597
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\Proxima-Semibold\267447_5_0.woff
+Content Type: font/woff
+
+Uri: http://cdn2.editmysite.com/fonts/wSocial/wsocial.eot?ts=1650308642229
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\wSocial\wsocial.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cdn2.editmysite.com/fonts/wSocial/wsocial.svg?ts=1650308642229
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\wSocial\wsocial.svg
+Content Type: image/svg+xml
+
+Uri: http://cdn2.editmysite.com/fonts/wSocial/wsocial.ttf?ts=1650308642229
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\wSocial\wsocial.ttf
+Content Type: application/octet-stream
+
+Uri: http://cdn2.editmysite.com/fonts/wSocial/wsocial.woff?ts=1650308642229
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\fonts\wSocial\wsocial.woff
+Content Type: font/woff
+
+Uri: http://cdn2.editmysite.com/images/blank.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\blank.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/common/blog/blog-comment-button.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\blog\blog-comment-button.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/blog/blog-comment-field-bg.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\blog\blog-comment-field-bg.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/blog/blog-comment-header-author.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\blog\blog-comment-header-author.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/blog/blog-comment-header.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\blog\blog-comment-header.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/blog/blog-comment-link.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\blog\blog-comment-link.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/blog/blog-comment-pointer-author.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\blog\blog-comment-pointer-author.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/blog/blog-comment-pointer.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\blog\blog-comment-pointer.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/blog/dark-blog-comment-header-author.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\blog\dark-blog-comment-header-author.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/blog/dark-blog-comment-header.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\blog\dark-blog-comment-header.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/blog/dark-blog-comment-link.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\blog\dark-blog-comment-link.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/blog/dark-blog-comment-pointer-author.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\blog\dark-blog-comment-pointer-author.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/blog/dark-blog-comment-pointer.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\blog\dark-blog-comment-pointer.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/buttons/large_blue.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\buttons\large_blue.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/buttons/small_blue.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\buttons\small_blue.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/buttons/small_grey.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\buttons\small_grey.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/checkmarks/@2x/checkmark-mini.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\checkmarks\@2x\checkmark-mini.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/checkmarks/checkmark-mini.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\checkmarks\checkmark-mini.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/form_input_bg.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\form_input_bg.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/common/lightbox/nextlabel.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\lightbox\nextlabel.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/common/lightbox/prevlabel.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\lightbox\prevlabel.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/common/magnifying-glass.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\magnifying-glass.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/search-light.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\search-light.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/search-pagination-bg.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\search-pagination-bg.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/common/social_icons.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\common\social_icons.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/loading.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\loading.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/old/button/large_grey.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\old\button\large_grey.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/old/fancybox/blank.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\old\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/old/fancybox/fancybox_loading.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\old\fancybox\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/old/fancybox/fancybox_overlay.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\old\fancybox\fancybox_overlay.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/old/fancybox/fancybox_sprite.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\old\fancybox\fancybox_sprite.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/old/loading.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\old\loading.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/old/photoswipe/error.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\old\photoswipe\error.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/old/photoswipe/icons.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\old\photoswipe\icons.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/old/photoswipe/icons@2x.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\old\photoswipe\icons@2x.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/old/photoswipe/loader.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\old\photoswipe\loader.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/old/slideshow/control_icons.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\old\slideshow\control_icons.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/old/slideshow/header_slideshow_sprites.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\old\slideshow\header_slideshow_sprites.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/old/slideshow/header_slideshow_sprites1x.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\old\slideshow\header_slideshow_sprites1x.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/site/checkout/@2x/credit-cards.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\site\checkout\@2x\credit-cards.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/site/checkout/@2x/paypal.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\site\checkout\@2x\paypal.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/site/checkout/credit-cards.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\site\checkout\credit-cards.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/site/checkout/paypal.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\site\checkout\paypal.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/site/checkout/print.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\site\checkout\print.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/site/checkout/print@2x.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\site\checkout\print@2x.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/general/blank.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\general\blank.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/util/general/bottom-triangle-000.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\general\bottom-triangle-000.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/general/bottom-triangle-000@2x.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\general\bottom-triangle-000@2x.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/general/top-triangle-000.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\general\top-triangle-000.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/general/top-triangle-000@2x.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\general\top-triangle-000@2x.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/inputs/search-input-bg.jpg
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\inputs\search-input-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://cdn2.editmysite.com/images/util/loading-white-w24.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\loading-white-w24.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/util/spinner/spinner-dark.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\spinner\spinner-dark.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/spinner/spinner-light.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\spinner\spinner-light.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/@2x/blue-bar.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\@2x\blue-bar.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/@2x/gradient.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\@2x\gradient.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/@2x/loading-icon.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\@2x\loading-icon.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/@2x/maximize-icon.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\@2x\maximize-icon.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/@2x/minimize-icon.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\@2x\minimize-icon.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/@2x/play-icon.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\@2x\play-icon.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/@2x/sad-face.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\@2x\sad-face.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/@2x/volume-filled.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\@2x\volume-filled.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/@2x/volume-mute.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\@2x\volume-mute.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/@2x/white-bar.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\@2x\white-bar.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/blue-bar.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\blue-bar.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/gradient.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\gradient.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/loading-icon.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\loading-icon.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/maximize-icon.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\maximize-icon.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/minimize-icon.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\minimize-icon.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/play-icon.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\play-icon.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/sad-face.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\sad-face.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/volume-filled.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\volume-filled.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/volume-mute.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\volume-mute.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/white-bar.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\util\videojs\white-bar.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/vendor/select2/select2-spinner.gif
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\vendor\select2\select2-spinner.gif
+Content Type: image/gif
+
+Uri: http://cdn2.editmysite.com/images/vendor/select2/select2.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\vendor\select2\select2.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/vendor/select2/select2x2.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\images\vendor\select2\select2x2.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1599673045&
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\js\lang\en\stl.js
+Content Type: application/javascript
+
+Uri: http://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1632169377&
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\js\lang\en\stl-2.js
+Content Type: application/javascript
+
+Uri: http://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1646848979&
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\js\lang\en\stl-1.js
+Content Type: application/javascript
+
+Uri: http://cdn2.editmysite.com/js/old/slideshow-jq.js?buildTime=1646848979
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\js\old\slideshow-jq.js
+Content Type: application/javascript
+
+Uri: http://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1599673045
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\js\site\main-customer-accounts-site-2.js
+Content Type: application/javascript
+
+Uri: http://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1632169377
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\js\site\main-customer-accounts-site-1.js
+Content Type: application/javascript
+
+Uri: http://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1646848979
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\js\site\main-customer-accounts-site.js
+Content Type: application/javascript
+
+Uri: http://cdn2.editmysite.com/js/site/main.js?buildTime=1599673045
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\js\site\main-2.js
+Content Type: application/javascript
+
+Uri: http://cdn2.editmysite.com/js/site/main.js?buildTime=1632169377
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\js\site\main-1.js
+Content Type: application/javascript
+
+Uri: http://cdn2.editmysite.com/js/site/main.js?buildTime=1646848979
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\js\site\main.js
+Content Type: application/javascript
+
+Uri: http://cdn2.editmysite.com/sprites/common/social-icons-s5ea5500bdb.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\sprites\common\social-icons-s5ea5500bdb.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/sprites/common/social-icons/@2x-s0ae7d70c70.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\sprites\common\social-icons\@2x-s0ae7d70c70.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/sprites/site/forms-s3786257308.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\sprites\site\forms-s3786257308.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/sprites/site/forms/@2x-s47607b315a.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\sprites\site\forms\@2x-s47607b315a.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/sprites/site/mini-cart-s86c48effae.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\sprites\site\mini-cart-s86c48effae.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/sprites/site/mini-cart/@2x-s576cbc3f90.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\sprites\site\mini-cart\@2x-s576cbc3f90.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/sprites/site/mobile/commerce-sdf6d4e852c.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\sprites\site\mobile\commerce-sdf6d4e852c.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/sprites/site/mobile/commerce/@2x-s82f968c453.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\sprites\site\mobile\commerce\@2x-s82f968c453.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/sprites/util/inputs/checkmarkBox-s7868418152.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\sprites\util\inputs\checkmarkBox-s7868418152.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/sprites/util/inputs/checkmarkBox/@2x-s211a47d318.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\sprites\util\inputs\checkmarkBox\@2x-s211a47d318.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/sprites/util/videojs-sacae758aa2.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\sprites\util\videojs-sacae758aa2.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/sprites/util/videojs/@2x-s2aff7e7d9a.png
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\sprites\util\videojs\@2x-s2aff7e7d9a.png
+Content Type: image/png
+
+Uri: http://fonts.googleapis.com/css?family=GFS+Didot&subset=latin,latin-ext
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\css-4
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Karla:400,700|Oswald:700|Roboto+Mono:400,400i,700,700i
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Karla:400,700,400italic,700italic&subset=latin,latin-ext
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\css-1
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Oswald:400,300,700&subset=latin,latin-ext
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\css-2
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic&subset=latin,latin-ext
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\css-3
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/gfsdidot/v13/Jqzh5TybZ9vZMWFssvwiFw.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\gfsdidot\v13\Jqzh5TybZ9vZMWFssvwiFw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/karla/v21/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaE0lP.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\karla\v21\qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/karla/v21/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaHUlP.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\karla\v21\qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaHUlP.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/karla/v21/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aE0lP.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\karla\v21\qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aE0lP.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/karla/v21/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aHUlP.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\karla\v21\qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aHUlP.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/karla/v21/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV3lGb7Y.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\karla\v21\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV3lGb7Y.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/karla/v21/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUHlGb7Y.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\karla\v21\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUHlGb7Y.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUhiYA.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\oswald\v47\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUhiYA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUhiYA.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\oswald\v47\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUhiYA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\oswald\v47\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUhiYA.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\oswald\v47\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUhiYA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/ptsans/v16/jizaRExUiTo99u79D0yEwA.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\ptsans\v16\jizaRExUiTo99u79D0yEwA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/ptsans/v16/jizdRExUiTo99u79D0e8fOydIRUY.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\ptsans\v16\jizdRExUiTo99u79D0e8fOydIRUY.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/ptsans/v16/jizfRExUiTo99u79B_mh0OCtKA.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\ptsans\v16\jizfRExUiTo99u79B_mh0OCtKA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/ptsans/v16/jizYRExUiTo99u79D0e0ycmN.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\ptsans\v16\jizYRExUiTo99u79D0e0ycmN.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/robotomono/v21/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnANW6Cpw.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\robotomono\v21\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnANW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/robotomono/v21/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB9W6Cpw.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\robotomono\v21\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB9W6Cpw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/robotomono/v21/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\robotomono\v21\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/robotomono/v21/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2_ROW9.ttf
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\s\robotomono\v21\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2_ROW9.ttf
+Content Type: font/ttf
+
+Uri: http://serranoshoerepair.com/about-us.html
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\about-us.html
+Content Type: text/html
+
+Uri: http://serranoshoerepair.com/contact-us.html
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\contact-us.html
+Content Type: text/html
+
+Uri: http://serranoshoerepair.com/files/main_style.css?1600052089
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\files\main_style.css
+Content Type: text/css
+
+Uri: http://serranoshoerepair.com/files/theme/custom-1.js?1574700255
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\files\theme\custom-1.js
+Content Type: application/x-javascript
+
+Uri: http://serranoshoerepair.com/files/theme/images/arrow-dark.svg
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\files\theme\images\arrow-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://serranoshoerepair.com/files/theme/images/arrow-light.svg?1600052089
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\files\theme\images\arrow-light.svg
+Content Type: image/svg+xml
+
+Uri: http://serranoshoerepair.com/files/theme/images/chevron-down.svg
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\files\theme\images\chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: http://serranoshoerepair.com/files/theme/images/default-bg.jpg
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\files\theme\images\default-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://serranoshoerepair.com/files/theme/jquery.pxuMenu.js?1574700255
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\files\theme\jquery.pxuMenu.js
+Content Type: application/x-javascript
+
+Uri: http://serranoshoerepair.com/files/theme/jquery.revealer.js?1574700255
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\files\theme\jquery.revealer.js
+Content Type: application/x-javascript
+
+Uri: http://serranoshoerepair.com/files/theme/jquery.trend.js?1574700255
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\files\theme\jquery.trend.js
+Content Type: application/x-javascript
+
+Uri: http://serranoshoerepair.com/files/theme/MutationObserver.js
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\files\theme\MutationObserver.js
+Content Type: application/x-javascript
+
+Uri: http://serranoshoerepair.com/files/theme/plugins.js?1574700255
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\files\theme\plugins.js
+Content Type: application/x-javascript
+
+Uri: http://serranoshoerepair.com/index.html
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\index.html
+Content Type: text/html
+
+Uri: http://serranoshoerepair.com/services.html
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\services.html
+Content Type: text/html
+
+Uri: http://serranoshoerepair.com/uploads/1/1/2/0/112043497/background-images/2102973489.jpg
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\uploads\1\1\2\0\112043497\background-images\2102973489.jpg
+Content Type: image/jpeg
+
+Uri: http://serranoshoerepair.com/uploads/1/1/2/0/112043497/k_orig.jpg
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\uploads\1\1\2\0\112043497\k_orig.jpg
+Content Type: image/jpeg
+
+Uri: http://serranoshoerepair.com/uploads/1/1/2/0/112043497/published/409444-315561295151303-374480287-n-1.jpg?1507580164
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\uploads\1\1\2\0\112043497\published\409444-315561295151303-374480287-n-1.jpg
+Content Type: image/jpeg
+
+Uri: http://serranoshoerepair.com/uploads/1/1/2/0/112043497/published/levin.jpg?1507580147
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\uploads\1\1\2\0\112043497\published\levin.jpg
+Content Type: image/jpeg
+
+Uri: http://serranoshoerepair.com/uploads/1/1/2/0/112043497/published/logo.jpeg?1600049785
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\uploads\1\1\2\0\112043497\published\logo.jpeg
+Content Type: image/jpeg
+
+Uri: http://serranoshoerepair.com/uploads/1/1/2/0/112043497/published/rz.jpg?1600049813
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\uploads\1\1\2\0\112043497\published\rz.jpg
+Content Type: image/jpeg
+
+Uri: http://serranoshoerepair.com/uploads/1/1/2/0/112043497/published/zhoes.png?1600050129
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\uploads\1\1\2\0\112043497\published\zhoes.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js
+File Name: C:\Chicago Clients\PhillipsShoeClinic\serranoshoerepair.com\ajax\libs\jquery\1.8.3\jquery.min.js
+Content Type: text/javascript
+
